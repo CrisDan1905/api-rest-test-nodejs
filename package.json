@@ -1,0 +1,25 @@
+{
+  "name": "prueba-nodejs",
+  "version": "0.0.1",
+  "description": "prueba para hacer un api rest con nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "api",
+    "muerte",
+    "al",
+    "sql"
+  ],
+  "author": "Danilo",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.3",
+    "nodemon": "^1.12.1"
+  }
+}
