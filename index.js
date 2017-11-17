@@ -1,3 +1,4 @@
+/* Conexion a la BD e inicialización de la app */
 'use strict'
 
 const mongoose = require('mongoose');

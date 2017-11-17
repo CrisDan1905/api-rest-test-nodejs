@@ -1,3 +1,5 @@
+/* Configuraciones para toda la app */
+
 'use strict'
 
 const bodyParser = require('body-parser');

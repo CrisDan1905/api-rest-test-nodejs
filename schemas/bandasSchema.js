@@ -9,4 +9,5 @@ const bandaSchema = Schema({
     image: String
 });
 
+
 module.exports = mongoose.model('banda', bandaSchema);
